@@ -7,7 +7,6 @@ module.exports = {
         basePath: ``,
         path: `src/`,
         imagesPath: `src/images/`,
-      options: {
         siteUrl: `https://www.owusu.io`,
         siteName: `Eric Owusu`,
         siteShortName: `EKO`,
