@@ -4,9 +4,6 @@ module.exports = {
     {
       resolve: `@christiandavid/gatsby-theme-byfolio`,
       options: {
-        basePath: ``,
-        path: `src/`,
-        imagesPath: `src/images/`,
         siteUrl: `https://www.owusu.io`,
         siteName: `Eric Owusu`,
         siteShortName: `EKO`,
