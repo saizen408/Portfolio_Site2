@@ -3,7 +3,7 @@ var plugins = [{
       options: {"plugins":[],"pathToConfigModule":"/Users/ericowusu/Documents/Software_Projects/React/Portfolio/portfolio_2/node_modules/@christiandavid/gatsby-theme-byfolio/src/utils/typography"},
     },{
       plugin: require('/Users/ericowusu/Documents/Software_Projects/React/Portfolio/portfolio_2/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"Eric Owusu","short_name":"EKO","description":"This cool App contains information about my work experience and projects as a software developer.","lang":"en","start_url":"/","background_color":"#000","theme_color":"#fff","display":"standalone","icon":"/Users/ericowusu/Documents/Software_Projects/React/Portfolio/portfolio_2/node_modules/@christiandavid/gatsby-theme-byfolio/src/images/icon.png"},
+      options: {"plugins":[],"name":"Eric Owusu","short_name":"EKO","description":"This cool App contains information about my work experience and projects as a software developer.","lang":"en","start_url":"/","background_color":"#000","theme_color":"#fff","display":"standalone","icon":"/Users/ericowusu/Documents/Software_Projects/React/Portfolio/portfolio_2/src/images/icon.png"},
     },{
       plugin: require('/Users/ericowusu/Documents/Software_Projects/React/Portfolio/portfolio_2/node_modules/gatsby-plugin-transition-link/gatsby-ssr'),
       options: {"plugins":[],"layout":"/Users/ericowusu/Documents/Software_Projects/React/Portfolio/portfolio_2/node_modules/@christiandavid/gatsby-theme-byfolio/src/layout/index.js"},
