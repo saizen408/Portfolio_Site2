@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "@christiandavid/gatsby-theme-byfolio": "^1.0.8",
-    "gatsby": "^2.18.21",
+    "gatsby": "^4.25.7",
     "react-dom": "^16.12.0"
   }
 }
